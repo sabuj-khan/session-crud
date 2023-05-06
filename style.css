@@ -1,0 +1,22 @@
+.project {
+    color: gray !important;
+}
+.project a {
+    text-decoration: none;
+    color: gray;
+    font-weight: 600;
+}
+
+
+.nav-area  {
+    overflow: hidden;
+}
+
+.nav-area .left-area {
+    float: left;
+}
+.nav-area .right-area {
+    overflow: hidden;
+    text-align: end;
+    margin-right: 19px;
+}
